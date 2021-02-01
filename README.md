@@ -5,5 +5,4 @@
 update makde on master on Githun before rebase
 
 This is a simple update
-
-Something went conflictic in this update 
+This is a simple update 2
