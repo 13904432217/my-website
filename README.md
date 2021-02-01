@@ -2,4 +2,4 @@
 # hahahah
 # example
 
-update locally, then remotely
+update makde on master on Githun before rebase
