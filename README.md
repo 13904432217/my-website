@@ -2,4 +2,4 @@
 # hahahah
 # example
 
-update remotely
+update locally
